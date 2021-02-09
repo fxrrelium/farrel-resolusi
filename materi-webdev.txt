@@ -8,8 +8,11 @@ Materi Web Development
     * CSS Flex 
     * CSS Grid
   - Javascript
+    * Vanilla.js
+    * Javascript Dasar
   
 2. Back-End
   - PHP
     * Laravel
     * CodeIgniter
+  - Node.js
