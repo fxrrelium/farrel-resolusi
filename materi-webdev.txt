@@ -9,6 +9,7 @@ Materi Web Development
     * CSS Grid
   - Javascript
     * Vanilla.js
+    * Javascript Dasar
   
 2. Back-End
   - PHP
