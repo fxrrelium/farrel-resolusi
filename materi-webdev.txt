@@ -11,10 +11,11 @@ Materi Web Development
     * Javascript Dasar
     * Javascript DOM
     * Javascript Advanced
-    * Vanilla.js
   
 2. Back-End
   - PHP
+    * PHP Dasar
+    * PHP OOP
     * Laravel
     * CodeIgniter
   - Node.js
