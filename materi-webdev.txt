@@ -3,6 +3,10 @@ Materi Web Development
 1. Front-End
   - HTML
   - CSS
+    * CSS Dasar
+    * CSS Layouting
+    * CSS Flex 
+    * CSS Grid
   - Javascript
   
 2. Back-End
