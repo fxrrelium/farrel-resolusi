@@ -8,6 +8,8 @@ Materi Web Development
     * CSS Flex 
     * CSS Grid
   - Javascript
+    * Javascript DOM
+    * Javascript Advanced
   
 2. Back-End
   - PHP
